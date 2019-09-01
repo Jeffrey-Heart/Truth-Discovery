@@ -48,8 +48,3 @@ def loadDataset(fileName):
 #dataset = loadDataset()
 v_, w_, loss_ = CRH(dataset)
 
-
-
-
-    
-
